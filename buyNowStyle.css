@@ -1,0 +1,27 @@
+.first-div{
+  background-color: #F5F5F5;
+}
+.first-div h1{
+  margin-left: 30px;
+}
+.user-img {
+  margin-top: 5px;
+}
+.grid-container img{
+  height: 300px;
+  width: 300px;
+}
+.grid-container{
+  display: grid;
+  grid-template-columns: auto auto;
+}
+
+.about-sec-div {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.social-link {
+  margin-top: 20px;
+  margin-left: 35.5%;
+}

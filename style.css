@@ -1,0 +1,102 @@
+.first-div {
+  background-color: #fff;
+  margin-top: 150px;
+}
+
+.second-div {
+  background-color: #fff;
+  margin-top: 150px;
+}
+
+.third-div {
+  margin-top: 150px;
+}
+
+.user-img {
+  margin-top: 5px;
+}
+
+.about-class {
+  padding-right: 20px;
+}
+
+.imgRight {
+  height: 550px;
+  width: 850px;
+}
+
+.raspberry-text-div {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.raspberry-text-div h1 {
+  color: red;
+}
+
+.raspberry-text-div p {
+  color: grey;
+}
+
+.raspberry-img-div {
+  display: inline-block;
+}
+
+.imgLeft {
+  height: 510px;
+  width: 750px;
+}
+
+.aurdino_speaker-text-div {
+  display: inline-block;
+}
+
+.aurdino_speaker-text-div h1 {
+  color: #4BADEA;
+}
+
+.aurdino_speaker-text-div p {
+  color: grey;
+}
+
+.aurdino_speaker-img-div {
+  display: inline-block;
+  margin-left: 20px;
+  margin-right: 20px;
+}
+
+.about-p-div {
+  display: inline-block;
+}
+
+.contact-p-div {
+  display: inline-block;
+}
+
+.imgRight1 {
+  width: 100%;
+}
+
+.fan-text-div {
+  position: absolute;
+  padding-top: 90px;
+  padding-left: 20px;
+}
+
+.fan-text-div h1 {
+  color: black;
+}
+
+.fan-text-div p {
+  color: grey;
+}
+
+.about-sec-div {
+  text-align: center;
+  margin-top: 70px;
+}
+
+.social-link {
+  margin-top: 20px;
+  margin-left: 35.5%;
+}
